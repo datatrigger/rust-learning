@@ -1,6 +1,6 @@
 {
-    "name": "Learn Rust"
-    "image": "rust:latest",
+    "name": "Learn Rust",
+    "image": "mcr.microsoft.com/devcontainers/rust:latest",
     "customizations": {
         "vscode": {
             "extensions": [
